@@ -8,7 +8,7 @@ import NotFoundPage from "./pages/NotFoundPage";
 import SignUpPage from "./pages/SignUpPage";
 
 // Components
-import NavBar from "./components/Navbar";
+import NavBar from "./components/NavBar";
 import FooterComp from "./components/FooterComp";
 
 const App = () => {
