@@ -9,7 +9,7 @@ const HomePage = () => {
     const fetchProducts = async () => {
       try {
         const res = await axios.get(
-          "http://localhost:5173/products"
+          "https://ultimate-shop.onrender.com/api/products"
         ); 
         setProducts(res.data);
       } catch (error) {
