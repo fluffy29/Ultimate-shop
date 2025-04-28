@@ -1,11 +1,11 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 // Pages
-import CreateProduct from "./pages/CreateProduct";
-import HomePage from "./pages/HomePage";
-import LoginPage from "./pages/LoginPage";
-import NotFoundPage from "./pages/NotFoundPage";
-import SignUpPage from "./pages/SignUpPage";
+import CreateProduct from "src/pages/CreateProduct";
+import HomePage from "src/pages/HomePage";
+import LoginPage from "src/pages/LoginPage";
+import NotFoundPage from "src/pages/NotFoundPage";
+import SignUpPage from "src/pages/SignUpPage";
 
 // Components
 import NavBar from "./components/NavBar";
