@@ -8,8 +8,8 @@ import NotFoundPage from "src/pages/NotFoundPage";
 import SignUpPage from "src/pages/SignUpPage";
 
 // Components
-import NavBar from "./components/NavBar";
-import FooterComp from "./components/FooterComp";
+import NavBar from "src/components/NavBar";
+import FooterComp from "src/components/FooterComp";
 
 const App = () => {
   return (
